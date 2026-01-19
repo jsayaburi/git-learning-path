@@ -1,4 +1,1 @@
-# Git Learning Path
-
-## Notes
-– Learning Git basics
+– Practicing git diff
