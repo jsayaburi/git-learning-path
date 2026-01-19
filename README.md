@@ -1,2 +1,3 @@
 – Practicing git diff
 – This change came from a branch
+– Learning git diff and staging
